@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-protfolio/static/css/main.347c9793.css",
+    "main.js": "/my-protfolio/static/js/main.33122744.js",
+    "static/media/work1.png": "/my-protfolio/static/media/work1.b439f13c52b580aef1dc.png",
+    "static/media/work2.png": "/my-protfolio/static/media/work2.600cf64417c88f5a40b1.png",
+    "static/media/works3.png": "/my-protfolio/static/media/works3.354bcc8cac8885aa1f4f.png",
+    "static/media/site-bg.jpg": "/my-protfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/about.png": "/my-protfolio/static/media/about.631bde360a1690fa2d37.png",
+    "static/media/services.png": "/my-protfolio/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/rapid1.png": "/my-protfolio/static/media/rapid1.53aad4352527368f4155.png",
+    "static/media/canva.png": "/my-protfolio/static/media/canva.973977a1b57d3cd68e1a.png",
+    "static/media/react.png": "/my-protfolio/static/media/react.dc35f6c457d2f45f0178.png",
+    "static/media/Resume.pdf": "/my-protfolio/static/media/Resume.4a749c020f2d1263d404.pdf",
+    "static/media/html5.png": "/my-protfolio/static/media/html5.dc9668c1289c57692d29.png",
+    "static/media/studio.png": "/my-protfolio/static/media/studio.df411f1137379426e43c.png",
+    "static/media/boot.png": "/my-protfolio/static/media/boot.673bb7bb462a6dc4ac6c.png",
+    "static/media/mongo.png": "/my-protfolio/static/media/mongo.1fef6e1a6bce3a358adc.png",
+    "static/media/javascript.png": "/my-protfolio/static/media/javascript.eb3f78043badaf0984c5.png",
+    "static/media/github.png": "/my-protfolio/static/media/github.944f72080382164d0708.png",
+    "static/media/express.png": "/my-protfolio/static/media/express.f649f0c445f0fa9134e2.png",
+    "static/media/node.png": "/my-protfolio/static/media/node.6e05f1a5219364ec2db5.png",
+    "static/media/lap1.png": "/my-protfolio/static/media/lap1.4e6a2aaeebe48520de80.png",
+    "static/media/css3.png": "/my-protfolio/static/media/css3.b9eff8fd517ebfdc2bef.png",
+    "static/media/Group.svg": "/my-protfolio/static/media/Group.abc9230890e5a9ce69d21a320e3fc8e2.svg",
+    "index.html": "/my-protfolio/index.html",
+    "main.347c9793.css.map": "/my-protfolio/static/css/main.347c9793.css.map",
+    "main.33122744.js.map": "/my-protfolio/static/js/main.33122744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347c9793.css",
+    "static/js/main.33122744.js"
+  ]
+}
