@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
-import Resume from "../assets/Resume.pdf";
+import Resume from "../assets/jaimin_cv.pdf";
 
 const Contact = () => {
   return (
