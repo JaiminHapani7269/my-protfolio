@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/my-protfolio/static/css/main.347c9793.css",
-    "main.js": "/my-protfolio/static/js/main.33122744.js",
+    "main.js": "/my-protfolio/static/js/main.7faf3d4f.js",
     "static/media/work1.png": "/my-protfolio/static/media/work1.b439f13c52b580aef1dc.png",
     "static/media/work2.png": "/my-protfolio/static/media/work2.600cf64417c88f5a40b1.png",
     "static/media/works3.png": "/my-protfolio/static/media/works3.354bcc8cac8885aa1f4f.png",
     "static/media/site-bg.jpg": "/my-protfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/about.png": "/my-protfolio/static/media/about.631bde360a1690fa2d37.png",
     "static/media/services.png": "/my-protfolio/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/jaimin_cv.pdf": "/my-protfolio/static/media/jaimin_cv.38de31af0a7e981d24a0.pdf",
     "static/media/rapid1.png": "/my-protfolio/static/media/rapid1.53aad4352527368f4155.png",
     "static/media/canva.png": "/my-protfolio/static/media/canva.973977a1b57d3cd68e1a.png",
     "static/media/react.png": "/my-protfolio/static/media/react.dc35f6c457d2f45f0178.png",
-    "static/media/Resume.pdf": "/my-protfolio/static/media/Resume.4a749c020f2d1263d404.pdf",
     "static/media/html5.png": "/my-protfolio/static/media/html5.dc9668c1289c57692d29.png",
     "static/media/studio.png": "/my-protfolio/static/media/studio.df411f1137379426e43c.png",
     "static/media/boot.png": "/my-protfolio/static/media/boot.673bb7bb462a6dc4ac6c.png",
@@ -25,10 +25,10 @@
     "static/media/Group.svg": "/my-protfolio/static/media/Group.abc9230890e5a9ce69d21a320e3fc8e2.svg",
     "index.html": "/my-protfolio/index.html",
     "main.347c9793.css.map": "/my-protfolio/static/css/main.347c9793.css.map",
-    "main.33122744.js.map": "/my-protfolio/static/js/main.33122744.js.map"
+    "main.7faf3d4f.js.map": "/my-protfolio/static/js/main.7faf3d4f.js.map"
   },
   "entrypoints": [
     "static/css/main.347c9793.css",
-    "static/js/main.33122744.js"
+    "static/js/main.7faf3d4f.js"
   ]
 }
