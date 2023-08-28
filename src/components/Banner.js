@@ -1,6 +1,7 @@
 import React from "react";
 import { FaGithub } from "react-icons/fa";
 import lap1 from "../assets/lap1.png";
+import resume from "../assets/jaimin_cv.pdf";
 import { BsLinkedin, BsInstagram, BsFacebook } from "react-icons/bs";
 
 import { TypeAnimation } from "react-type-animation";
@@ -62,7 +63,7 @@ const Banner = () => {
               className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0"
             >
 
-              <button className="btn btn-lg" ><a href="jaimin_cv.pdf" download>Download Cv</a></button>
+              <button className="btn btn-lg" ><a href={resume} download>Download Cv</a></button>
 
               <a href="#" className="text-gradient btn-link">
                 My Portfolio
