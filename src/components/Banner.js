@@ -7,6 +7,8 @@ import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
 import { Link } from "react-scroll";
+import Resume from "../assets/jaimin_cv.pdf";
+
 
 const Banner = () => {
   return (
@@ -62,7 +64,7 @@ const Banner = () => {
               className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0"
             >
 
-              <button className="btn btn-lg" ><a href="jaimin_cv.pdf" download>Download Cv</a></button>
+              <button className="btn btn-lg" ><a href={Resume} download>Download Cv</a></button>
 
               <a href="#" className="text-gradient btn-link">
                 My Portfolio
