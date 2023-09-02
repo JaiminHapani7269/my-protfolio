@@ -116,7 +116,7 @@ const Work = () => {
               </div>
               <div className="absolute -bottom-full left-12 group-hover:bottom-4 translate-all duration-700 z-50">
                 <a
-                  href=""
+                  href="https://bejewelled-quokka-7d4664.netlify.app/"
                   className="text-2xl text-white"
                 >
                   Click Me

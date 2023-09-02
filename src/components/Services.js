@@ -17,7 +17,7 @@ const services = [
     description:
       "Developed a fully responsive YouTube Clone which works on all devices with help of Rapid API.",
     link: "Learn more",
-    links: "",
+    links: "https://bejewelled-quokka-7d4664.netlify.app/",
   },
   {
     name: "News-Hub App",
