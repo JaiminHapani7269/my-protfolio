@@ -1,7 +1,7 @@
 import React from "react";
 import { FaGithub } from "react-icons/fa";
 import lap1 from "../assets/lap1.png";
-import resume from "../assets/Jaimin_CV_ReactJS.pdf";
+import resume from "../assets/Jaimin_resume.pdf";
 import { BsLinkedin, BsInstagram, BsFacebook } from "react-icons/bs";
 
 import { TypeAnimation } from "react-type-animation";
