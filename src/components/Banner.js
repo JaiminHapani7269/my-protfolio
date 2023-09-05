@@ -82,7 +82,7 @@ const Banner = () => {
                 <FaGithub />
               </a>
 
-              <a href="www.linkedin.com/in/jaimin-hapani-7269-471b9722b">
+              <a href="https://www.linkedin.com/in/jaimin-hapani-7269-471b9722b/">
                 <BsLinkedin />
               </a>
               <a href="https://instagram.com/jaimin._.hapani?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">

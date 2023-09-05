@@ -48,7 +48,7 @@ const About = () => {
             <div className="flex gap-x-6 lg:gap-x-10 mb-12">
               <div>
                 <div className="text-[40px] font-tertiary text-gradient mb-2 mt-2">
-                  {inView ? <CountUp start={0} end={6} duration={4} /> : null}
+                  {inView ? <CountUp start={0} end={8} duration={4} /> : null}
                 </div>
                 <div className="font-primary text-sm tracking-[2px] ">
                   No of Projects
@@ -56,16 +56,7 @@ const About = () => {
                   Completed
                 </div>
               </div>
-              <div>
-                <div className="text-[40px] font-tertiary text-gradient mb-2 mt-2" >
-                  {inView ? <CountUp start={0} end={1} duration={4} /> : null}
-                </div>
-                <div className="font-primary text-sm tracking-[2px]">
-                  Satisfied
-                  <br />
-                  Clients
-                </div>
-              </div>
+
             </div>
             <div className="flex gap-x-8 items-center">
               <Link to="contact">
