@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-protfolio/static/css/main.8089b012.css",
-    "main.js": "/my-protfolio/static/js/main.cc97e0d0.js",
+    "main.js": "/my-protfolio/static/js/main.c912dba1.js",
     "static/media/work1.png": "/my-protfolio/static/media/work1.b439f13c52b580aef1dc.png",
     "static/media/work2.png": "/my-protfolio/static/media/work2.600cf64417c88f5a40b1.png",
     "static/media/works3.png": "/my-protfolio/static/media/works3.354bcc8cac8885aa1f4f.png",
     "static/media/site-bg.jpg": "/my-protfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/about.png": "/my-protfolio/static/media/about.631bde360a1690fa2d37.png",
     "static/media/services.png": "/my-protfolio/static/media/services.8e66d4fbbd95de45b8db.png",
-    "static/media/Jaimin_resume.pdf": "/my-protfolio/static/media/Jaimin_resume.30ea5dceb5da5f79bc60.pdf",
+    "static/media/JAIMIN_REACT.pdf": "/my-protfolio/static/media/JAIMIN_REACT.806642cc2c129734dc82.pdf",
     "static/media/rapid1.png": "/my-protfolio/static/media/rapid1.53aad4352527368f4155.png",
     "static/media/canva.png": "/my-protfolio/static/media/canva.973977a1b57d3cd68e1a.png",
     "static/media/react.png": "/my-protfolio/static/media/react.dc35f6c457d2f45f0178.png",
@@ -25,10 +25,10 @@
     "static/media/Group.svg": "/my-protfolio/static/media/Group.abc9230890e5a9ce69d21a320e3fc8e2.svg",
     "index.html": "/my-protfolio/index.html",
     "main.8089b012.css.map": "/my-protfolio/static/css/main.8089b012.css.map",
-    "main.cc97e0d0.js.map": "/my-protfolio/static/js/main.cc97e0d0.js.map"
+    "main.c912dba1.js.map": "/my-protfolio/static/js/main.c912dba1.js.map"
   },
   "entrypoints": [
     "static/css/main.8089b012.css",
-    "static/js/main.cc97e0d0.js"
+    "static/js/main.c912dba1.js"
   ]
 }
